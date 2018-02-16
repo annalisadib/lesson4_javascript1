@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 16, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Annalisa DiBernardo)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I created a new workspace in cloud9 and a new repositroy in github. I edited the ReadMe file and also added variables to the expesneCalculator file)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://annalisadib.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Leanred how to edit code to reflect on a web page by adjusting index.html)
+2. (learned how to connect cloud9 to github via "push")
+3. (learned how to properly upload files and set up a local and remote repository)
 
 
 
